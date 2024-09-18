@@ -1,0 +1,29 @@
+2024-09-17 23:03:21.514 [main] INFO  testCases.TC003_AddEmployee - *****entered name*****
+2024-09-17 23:03:26.753 [main] INFO  testCases.TC003_AddEmployee - *****selected status*****
+2024-09-17 23:03:27.302 [main] INFO  testCases.TC003_AddEmployee - *****confirmed password*****
+2024-09-17 23:03:32.420 [main] INFO  testCases.TC003_AddEmployee - *****Clicked save*****
+2024-09-17 23:03:39.667 [main] INFO  testCases.TC002_ChangePassword - *****TC001_Login started*****
+2024-09-17 23:03:43.671 [main] INFO  testCases.TC002_ChangePassword - *clicked on login***
+2024-09-17 23:03:45.712 [main] INFO  testCases.TC002_ChangePassword - *****TC001_Login finished*****
+2024-09-17 23:03:45.727 [main] INFO  testCases.TC002_ChangePassword - *****TC002_ChangePassword started*****
+2024-09-17 23:03:47.318 [main] INFO  testCases.TC002_ChangePassword - *****TC002_ChangePassword Finished*****
+2024-09-17 23:28:37.428 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\1.work\1.eclipse_workspace\OrangeHRM\master.xml"
+2024-09-17 23:28:45.050 [main] INFO  testCases.TC001_Login - *****TC001_Login started*****
+2024-09-17 23:28:48.231 [main] INFO  testCases.TC001_Login - *clicked on login***
+2024-09-17 23:28:50.282 [main] INFO  testCases.TC001_Login - *****TC001_Login finished*****
+2024-09-17 23:28:55.789 [main] INFO  testCases.TC003_AddEmployee - *****TC001_Login started*****
+2024-09-17 23:29:00.450 [main] INFO  testCases.TC003_AddEmployee - *clicked on login***
+2024-09-17 23:29:02.496 [main] INFO  testCases.TC003_AddEmployee - *****TC001_Login finished*****
+2024-09-17 23:29:02.504 [main] INFO  testCases.TC003_AddEmployee - *****TC003_AddEmployee started*****
+2024-09-17 23:29:08.539 [main] INFO  testCases.TC003_AddEmployee - *****Clicked on admin*****
+2024-09-17 23:29:10.060 [main] INFO  testCases.TC003_AddEmployee - *****Clicked on  add admin*****
+2024-09-17 23:29:10.944 [main] INFO  testCases.TC003_AddEmployee - *****Clicked on user role*****
+2024-09-17 23:29:16.195 [main] INFO  testCases.TC003_AddEmployee - *****entered name*****
+2024-09-17 23:29:21.446 [main] INFO  testCases.TC003_AddEmployee - *****selected status*****
+2024-09-17 23:29:21.932 [main] INFO  testCases.TC003_AddEmployee - *****confirmed password*****
+2024-09-17 23:29:27.130 [main] INFO  testCases.TC003_AddEmployee - *****Clicked save*****
+2024-09-17 23:29:32.426 [main] INFO  testCases.TC002_ChangePassword - *****TC001_Login started*****
+2024-09-17 23:29:37.477 [main] INFO  testCases.TC002_ChangePassword - *clicked on login***
+2024-09-17 23:29:39.525 [main] INFO  testCases.TC002_ChangePassword - *****TC001_Login finished*****
+2024-09-17 23:29:39.529 [main] INFO  testCases.TC002_ChangePassword - *****TC002_ChangePassword started*****
+2024-09-17 23:29:41.647 [main] INFO  testCases.TC002_ChangePassword - *****TC002_ChangePassword Finished*****

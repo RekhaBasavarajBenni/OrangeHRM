@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration status="INFO">
+
+<Properties>
+		<Property name="basePath">./logs</Property>    // logs is the folder name and ./ is a current location
+</Properties>
+
+
+<Appenders>
+	<Console name="Console" target="SYSTEM_OUT">
+		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+	</Console>
+
+	<RollingFile name="MyFile" fileName="${basePath}/automation.log" filePattern="${basePath}/automation-%d{yyyy-MM-dd}.log">
+		<PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		 <SizeBasedTriggeringPolicy size="5000" />
+	</RollingFile>
+
+</Appenders>
+
+	<Loggers>
+		<Root level="Debug">  // here we can use multiple log levels trace to fatal
+			<!-- <AppenderRef ref="Console" /> --> // selecting where we want logs whether console
+			<AppenderRef ref="MyFile" />   // or in file
+		</Root>                           // most of the times we generate info logs and in file // so commenting console
+	</Loggers>
+	 
+</Configuration> 

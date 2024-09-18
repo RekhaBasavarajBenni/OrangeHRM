@@ -1,0 +1,2 @@
+cd E:\1.work\1.eclipse_workspace\OrangeHRM
+mvn test

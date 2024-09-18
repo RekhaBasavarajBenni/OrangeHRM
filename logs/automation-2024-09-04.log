@@ -1,0 +1,60 @@
+2024-09-04 00:52:24.150 [main] INFO  testCases.TC002_ChangePassword - *****TC002_ChangePassword Finished*****
+2024-09-04 00:52:30.999 [main] INFO  testCases.TC001_Login - *****TC001_Login started*****
+2024-09-04 00:52:36.909 [main] INFO  testCases.TC001_Login - *clicked on login***
+2024-09-04 00:52:36.930 [main] INFO  testCases.TC001_Login - *****TC001_Login finished*****
+2024-09-04 00:58:17.237 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\1.work\1.eclipse_workspace\OrangeHRM\grouping.xml"
+2024-09-04 00:58:17.909 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\1.work\1.eclipse_workspace\OrangeHRM\grouping.xml
+
+2024-09-04 00:58:27.747 [main] INFO  testCases.TC003_AddEmployee - *****TC001_Login started*****
+2024-09-04 00:58:34.742 [main] INFO  testCases.TC003_AddEmployee - *clicked on login***
+2024-09-04 00:58:34.755 [main] INFO  testCases.TC003_AddEmployee - *****TC001_Login finished*****
+2024-09-04 00:58:44.442 [main] INFO  testCases.TC002_ChangePassword - *****TC001_Login started*****
+2024-09-04 00:58:51.855 [main] INFO  testCases.TC002_ChangePassword - *clicked on login***
+2024-09-04 00:58:51.875 [main] INFO  testCases.TC002_ChangePassword - *****TC001_Login finished*****
+2024-09-04 00:58:59.749 [main] INFO  testCases.TC001_Login - *****TC001_Login started*****
+2024-09-04 00:59:07.187 [main] INFO  testCases.TC001_Login - *clicked on login***
+2024-09-04 00:59:07.206 [main] INFO  testCases.TC001_Login - *****TC001_Login finished*****
+2024-09-04 01:00:51.453 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\1.work\1.eclipse_workspace\OrangeHRM\grouping.xml"
+2024-09-04 01:00:52.317 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\1.work\1.eclipse_workspace\OrangeHRM\grouping.xml
+
+2024-09-04 01:01:01.596 [main] INFO  testCases.TC003_AddEmployee - *****TC001_Login started*****
+2024-09-04 01:01:08.788 [main] INFO  testCases.TC003_AddEmployee - *clicked on login***
+2024-09-04 01:01:08.805 [main] INFO  testCases.TC003_AddEmployee - *****TC001_Login finished*****
+2024-09-04 01:01:16.110 [main] INFO  testCases.TC002_ChangePassword - *****TC001_Login started*****
+2024-09-04 01:01:23.286 [main] INFO  testCases.TC002_ChangePassword - *clicked on login***
+2024-09-04 01:01:23.306 [main] INFO  testCases.TC002_ChangePassword - *****TC001_Login finished*****
+2024-09-04 01:01:31.187 [main] INFO  testCases.TC001_Login - *****TC001_Login started*****
+2024-09-04 01:01:39.010 [main] INFO  testCases.TC001_Login - *clicked on login***
+2024-09-04 01:01:39.029 [main] INFO  testCases.TC001_Login - *****TC001_Login finished*****
+2024-09-04 01:02:22.266 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\1.work\1.eclipse_workspace\OrangeHRM\grouping.xml"
+2024-09-04 01:02:23.110 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\1.work\1.eclipse_workspace\OrangeHRM\grouping.xml
+
+2024-09-04 01:02:34.140 [main] INFO  testCases.TC003_AddEmployee - *****TC001_Login started*****
+2024-09-04 01:02:40.228 [main] INFO  testCases.TC003_AddEmployee - *clicked on login***
+2024-09-04 01:02:40.256 [main] INFO  testCases.TC003_AddEmployee - *****TC001_Login finished*****
+2024-09-04 01:02:47.497 [main] INFO  testCases.TC002_ChangePassword - *****TC001_Login started*****
+2024-09-04 01:02:53.456 [main] INFO  testCases.TC002_ChangePassword - *clicked on login***
+2024-09-04 01:02:53.476 [main] INFO  testCases.TC002_ChangePassword - *****TC001_Login finished*****
+2024-09-04 01:03:04.552 [main] INFO  testCases.TC001_Login - *****TC001_Login started*****
+2024-09-04 01:03:10.676 [main] INFO  testCases.TC001_Login - *clicked on login***
+2024-09-04 01:03:10.690 [main] INFO  testCases.TC001_Login - *****TC001_Login finished*****
+2024-09-04 01:06:59.673 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\1.work\1.eclipse_workspace\OrangeHRM\grouping.xml"
+2024-09-04 01:07:00.370 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\1.work\1.eclipse_workspace\OrangeHRM\grouping.xml
+
+2024-09-04 01:07:09.806 [main] INFO  testCases.TC003_AddEmployee - *****TC001_Login started*****
+2024-09-04 01:07:15.760 [main] INFO  testCases.TC003_AddEmployee - *clicked on login***
+2024-09-04 01:07:15.789 [main] INFO  testCases.TC003_AddEmployee - *****TC001_Login finished*****
+2024-09-04 01:07:23.272 [main] INFO  testCases.TC002_ChangePassword - *****TC001_Login started*****
+2024-09-04 01:07:30.500 [main] INFO  testCases.TC002_ChangePassword - *clicked on login***
+2024-09-04 01:07:30.520 [main] INFO  testCases.TC002_ChangePassword - *****TC001_Login finished*****
+2024-09-04 01:07:40.993 [main] INFO  testCases.TC001_Login - *****TC001_Login started*****
+2024-09-04 01:07:47.856 [main] INFO  testCases.TC001_Login - *clicked on login***
+2024-09-04 01:07:47.867 [main] INFO  testCases.TC001_Login - *****TC001_Login finished*****
+2024-09-04 03:08:22.978 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\1.work\1.eclipse_workspace\OrangeHRM\grouping.xml"
+2024-09-04 03:08:23.683 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\1.work\1.eclipse_workspace\OrangeHRM\grouping.xml
+

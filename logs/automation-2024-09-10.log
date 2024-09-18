@@ -1,0 +1,50 @@
+2024-09-10 00:04:47.082 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\1.work\1.eclipse_workspace\OrangeHRM\crossbrowser.xml"
+2024-09-10 00:04:48.140 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\1.work\1.eclipse_workspace\OrangeHRM\crossbrowser.xml
+
+2024-09-10 00:04:59.306 [TestNG-tests-2] INFO  testCases.TC003_AddEmployee - *****TC001_Login started*****
+2024-09-10 00:05:03.799 [TestNG-tests-2] INFO  testCases.TC003_AddEmployee - *clicked on login***
+2024-09-10 00:05:05.846 [TestNG-tests-2] INFO  testCases.TC003_AddEmployee - *****TC001_Login finished*****
+2024-09-10 00:05:05.880 [TestNG-tests-2] INFO  testCases.TC003_AddEmployee - *****TC003_AddEmployee started*****
+2024-09-10 00:05:11.941 [TestNG-tests-2] INFO  testCases.TC003_AddEmployee - *****Clicked on admin*****
+2024-09-10 00:05:12.991 [TestNG-tests-2] INFO  testCases.TC003_AddEmployee - *****Clicked on  add admin*****
+2024-09-10 00:05:13.540 [TestNG-tests-2] INFO  testCases.TC003_AddEmployee - *****Clicked on user role*****
+2024-09-10 00:05:18.807 [TestNG-tests-2] INFO  testCases.TC003_AddEmployee - *****entered name*****
+2024-09-10 00:05:23.985 [TestNG-tests-2] INFO  testCases.TC003_AddEmployee - *****selected status*****
+2024-09-10 00:05:24.365 [TestNG-tests-2] INFO  testCases.TC003_AddEmployee - *****confirmed password*****
+2024-09-10 00:05:29.500 [TestNG-tests-2] INFO  testCases.TC003_AddEmployee - *****Clicked save*****
+2024-09-10 00:05:39.761 [TestNG-tests-2] INFO  testCases.TC002_ChangePassword - *****TC001_Login started*****
+2024-09-10 00:05:44.074 [TestNG-tests-2] INFO  testCases.TC002_ChangePassword - *clicked on login***
+2024-09-10 00:05:46.109 [TestNG-tests-2] INFO  testCases.TC002_ChangePassword - *****TC001_Login finished*****
+2024-09-10 00:05:46.119 [TestNG-tests-2] INFO  testCases.TC002_ChangePassword - *****TC002_ChangePassword started*****
+2024-09-10 00:05:47.613 [TestNG-tests-2] INFO  testCases.TC002_ChangePassword - *****TC002_ChangePassword Finished*****
+2024-09-10 00:06:00.625 [TestNG-tests-2] INFO  testCases.TC001_Login - *****TC001_Login started*****
+2024-09-10 00:06:05.959 [TestNG-tests-2] INFO  testCases.TC001_Login - *clicked on login***
+2024-09-10 00:06:08.001 [TestNG-tests-2] INFO  testCases.TC001_Login - *****TC001_Login finished*****
+2024-09-10 00:12:33.437 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\1.work\1.eclipse_workspace\OrangeHRM\crossbrowser.xml"
+2024-09-10 00:12:34.619 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\1.work\1.eclipse_workspace\OrangeHRM\crossbrowser.xml
+
+2024-09-10 00:12:51.505 [TestNG-tests-1] INFO  testCases.TC003_AddEmployee - *****TC001_Login started*****
+2024-09-10 00:12:51.507 [TestNG-tests-2] INFO  testCases.TC003_AddEmployee - *****TC001_Login started*****
+2024-09-10 00:12:51.514 [TestNG-tests-3] INFO  testCases.TC003_AddEmployee - *****TC001_Login started*****
+2024-09-10 00:12:56.041 [TestNG-tests-1] INFO  testCases.TC003_AddEmployee - *clicked on login***
+2024-09-10 00:12:57.115 [TestNG-tests-3] INFO  testCases.TC003_AddEmployee - *clicked on login***
+2024-09-10 00:12:57.363 [TestNG-tests-2] INFO  testCases.TC003_AddEmployee - *clicked on login***
+2024-09-10 00:12:58.062 [TestNG-tests-1] INFO  testCases.TC003_AddEmployee - *****TC001_Login finished*****
+2024-09-10 00:12:58.079 [TestNG-tests-1] INFO  testCases.TC003_AddEmployee - *****TC003_AddEmployee started*****
+2024-09-10 00:12:59.138 [TestNG-tests-3] INFO  testCases.TC003_AddEmployee - *****TC001_Login finished*****
+2024-09-10 00:12:59.145 [TestNG-tests-3] INFO  testCases.TC003_AddEmployee - *****TC003_AddEmployee started*****
+2024-09-10 00:12:59.385 [TestNG-tests-2] INFO  testCases.TC003_AddEmployee - *****TC001_Login finished*****
+2024-09-10 00:12:59.393 [TestNG-tests-2] INFO  testCases.TC003_AddEmployee - *****TC003_AddEmployee started*****
+2024-09-10 00:13:35.867 [TestNG-tests-1] INFO  testCases.TC002_ChangePassword - *****TC001_Login started*****
+2024-09-10 00:13:35.879 [TestNG-tests-3] INFO  testCases.TC002_ChangePassword - *****TC001_Login started*****
+2024-09-10 00:13:48.264 [TestNG-tests-1] INFO  testCases.TC002_ChangePassword - *clicked on login***
+2024-09-10 00:13:48.514 [TestNG-tests-3] INFO  testCases.TC002_ChangePassword - *clicked on login***
+2024-09-10 00:13:50.285 [TestNG-tests-1] INFO  testCases.TC002_ChangePassword - *****TC001_Login finished*****
+2024-09-10 00:13:50.291 [TestNG-tests-1] INFO  testCases.TC002_ChangePassword - *****TC002_ChangePassword started*****
+2024-09-10 00:14:00.382 [TestNG-tests-1] ERROR testCases.TC002_ChangePassword - Test case failed
+2024-09-10 00:14:00.383 [TestNG-tests-3] INFO  testCases.TC002_ChangePassword - *****TC001_Login finished*****
+2024-09-10 00:14:00.383 [TestNG-tests-1] DEBUG testCases.TC002_ChangePassword - Debug logs
+2024-09-10 00:14:00.392 [TestNG-tests-3] INFO  testCases.TC002_ChangePassword - *****TC002_ChangePassword started*****
+2024-09-10 00:14:00.404 [TestNG-tests-2] INFO  testCases.TC002_ChangePassword - *****TC001_Login started*****

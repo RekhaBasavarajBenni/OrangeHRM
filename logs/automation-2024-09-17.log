@@ -1,0 +1,49 @@
+2024-09-17 22:57:24.403 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 22:57:24.414 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 22:57:24.421 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 22:57:24.422 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 22:57:24.423 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 22:57:24.424 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 22:57:24.431 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 22:57:24.432 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 22:57:24.433 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 22:57:24.433 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 22:57:24.438 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 22:57:24.439 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 22:57:24.442 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 22:57:24.443 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 22:57:24.443 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-17 22:57:24.444 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-17 22:57:24.470 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rekha\AppData\Local\Temp\testng-eclipse--825755902\testng-customsuite.xml
+
+2024-09-17 22:57:24.525 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2024-09-17 22:57:25.097 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@72efb5c1: 238 ms
+2024-09-17 22:57:25.127 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@e3cee7b: 29 ms
+2024-09-17 22:57:25.176 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5bd1ceca: 48 ms
+2024-09-17 22:57:25.202 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@750fe12e: 25 ms
+2024-09-17 22:57:25.217 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1e11bc55: 15 ms
+2024-09-17 22:57:25.218 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7544a1e4: 1 ms
+2024-09-17 22:59:03.771 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\1.work\1.eclipse_workspace\OrangeHRM\master.xml"
+2024-09-17 22:59:04.788 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\1.work\1.eclipse_workspace\OrangeHRM\master.xml
+
+2024-09-17 22:59:15.563 [main] INFO  testCases.TC001_Login - *****TC001_Login started*****
+2024-09-17 23:00:51.719 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\1.work\1.eclipse_workspace\OrangeHRM\master.xml"
+2024-09-17 23:00:52.355 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\1.work\1.eclipse_workspace\OrangeHRM\master.xml
+
+2024-09-17 23:01:03.077 [main] INFO  testCases.TC001_Login - *****TC001_Login started*****
+2024-09-17 23:01:07.658 [main] INFO  testCases.TC001_Login - *clicked on login***
+2024-09-17 23:01:09.698 [main] INFO  testCases.TC001_Login - *****TC001_Login finished*****
+2024-09-17 23:02:35.310 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\1.work\1.eclipse_workspace\OrangeHRM\master.xml"
+2024-09-17 23:02:46.594 [main] INFO  testCases.TC001_Login - *****TC001_Login started*****
+2024-09-17 23:02:50.678 [main] INFO  testCases.TC001_Login - *clicked on login***
+2024-09-17 23:02:52.704 [main] INFO  testCases.TC001_Login - *****TC001_Login finished*****
+2024-09-17 23:03:01.742 [main] INFO  testCases.TC003_AddEmployee - *****TC001_Login started*****
+2024-09-17 23:03:06.005 [main] INFO  testCases.TC003_AddEmployee - *clicked on login***
+2024-09-17 23:03:08.033 [main] INFO  testCases.TC003_AddEmployee - *****TC001_Login finished*****
+2024-09-17 23:03:08.045 [main] INFO  testCases.TC003_AddEmployee - *****TC003_AddEmployee started*****
+2024-09-17 23:03:14.109 [main] INFO  testCases.TC003_AddEmployee - *****Clicked on admin*****
+2024-09-17 23:03:15.398 [main] INFO  testCases.TC003_AddEmployee - *****Clicked on  add admin*****
+2024-09-17 23:03:16.242 [main] INFO  testCases.TC003_AddEmployee - *****Clicked on user role*****
